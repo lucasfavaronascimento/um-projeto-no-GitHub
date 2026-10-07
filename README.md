@@ -10,3 +10,5 @@
 **Dados Fundamentais** Título: para indicar aos leitores sobre o que o projeto fala. Tecnologias utilizadas: Uma lista com as linguagens que compõem o projeto. Instalação: O passa a passo de como fazer o programa rodar para que o leitor consiga testar o código. funcionalidade: Exemplos do projeto sendo utilizado e funcionando. Status: Informação se o projeto foi concluído ou ainda está sendo desenvolvido.
 **O Poder do Markdown** O markdown é utilizado por conta de sua praticidade, permite fazer listas bem organizadas sem a necessidade de um código complexo.
 
+##🔄 Sessão 3: O Mapa das Atualizações
+**GitHub Online**
