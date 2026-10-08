@@ -11,4 +11,10 @@
 **O Poder do Markdown** O markdown é utilizado por conta de sua praticidade, permite fazer listas bem organizadas sem a necessidade de um código complexo.
 
 ##🔄 Sessão 3: O Mapa das Atualizações
-**GitHub Online**
+**GitHub Online** Ele é ótimo para atualizar, é extremamente eficiente editar códigos pelo navegador, o único problema é editar quando são códigos mais complexos, nesse casa em especifico não é nem um pouco eficiente.
+**Git via Linha de Comando** É a forma padrão muito utilizada por profissionais, com uma boa eficácia quando já acostumado.
+**IDEs** Uma alternativa que traz o git dentro do editor de código, é possível editar as modificações através de botões podendo salvar sem sair da tela do código.
+**GitHub Desktop** Um aplicativo dedicado para gerenciar repositórios, mostrando de maneira intuitiva todas as suas alterações
+
+###A Filosofia da Atualização###
+Atualizar o repositório é algo importante pois, pode ser utilizado para indentificar um problema quando o código quebra, serve para organizar quando tem varias pessoas fazendo alterações no código e mostra a clara evolução do programa.
